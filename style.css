@@ -1,3 +1,41 @@
-body {
-
+body{
+  background-color: #82A3A1;
+}
+h1{
+  font-size: 50px;
+  letter-spacing: 3px;
+  color: #F45B69;
+  text-decoration: underline;
+  text-decoration-color: #F35361;
+  font-family: "Lucida Console" 
+}
+p{
+  font-size: 40px;
+  color: #E4FDE1;
+}
+img{
+  width: 1200px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 80%;
+}
+ul{
+  text-align: center;
+  list-style-type: none; 
+  position: fixed; 
+}
+li{
+  float: left;
+}
+li a{
+  padding: 50px;
+  color: #175676;
+  background-color: white;
+  font-family: "Lucida Console";
+  border: solid blue;
+  border-width: 4px;
+}
+li a:hover{
+  background-color: #33A0D7;
+  color: white;
 }
