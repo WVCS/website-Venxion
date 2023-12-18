@@ -1,0 +1,45 @@
+ul2{
+  list-style-type: none;
+}
+body{
+  background-color: #eca24d
+}
+h1{
+  color: #F6EB61;
+   font-family: "Copperplate";
+}
+p{
+  color: #b45326;
+  font-family: "Copperplate";
+}
+li{
+  color: #b45326;
+  font-family: "Copperplate";
+}
+p2{
+  color: #b45326;
+  font-family: "Copperplate";
+}
+img{
+  border-radius: 90%;
+}
+ul1{
+  text-align: center;
+  list-style-type: none; 
+  position: fixed; 
+}
+li{
+  float: left;
+}
+li a{
+  padding: 50px;
+  color: #175676;
+  background-color: white;
+  font-family: "Lucida Console";
+  border: solid blue;
+  border-width: 4px;
+}
+li a:hover{
+  background-color: #33A0D7;
+  color: white;
+}
